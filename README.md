@@ -13,7 +13,7 @@ Definitely before you show a project to other people or make it public. You migh
   
 Where should I put it? 
 In the top level directory of the project. This is where someone who is new to your project will start out. Code hosting services such as GitHub, Bitbucket, and GitLab will also look for your README and display it along with the list of files and directories in your project.
-  
+   
 How should I make it?  
 While READMEs can be written in any text file format, the most common one that is used nowadays is Markdown. It allows you to add some lightweight formatting. You can learn more about it here, which also has a helpful reference guide and an interactive tutorial. Some other formats that you might see are plain text, reStructuredText (common in Python projects), and Textile.
 
