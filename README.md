@@ -2,7 +2,7 @@
 What is it?                     
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
                    
-Why should I make it?      
+Why should I make it?       
 It's an easy way to answer questions that your audience will likely have regarding how to install and use your project and also how to collaborate with you.
                  
 Who should make it?              
@@ -21,3 +21,4 @@ You can use any text editor. There are plugins for many editors (e.g. Atom, Emac
   
 You can also use a dedicated Markdown editor like Typora or an online one like StackEdit or Dillinger. You can even use the editable template below.
  
+  
