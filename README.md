@@ -22,3 +22,4 @@ You can use any text editor. There are plugins for many editors (e.g. Atom, Emac
 You can also use a dedicated Markdown editor like Typora or an online one like StackEdit or Dillinger. You can even use the editable template below.
  
   
+    
