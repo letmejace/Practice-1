@@ -20,7 +20,7 @@ While READMEs can be written in any text file format, the most common one that i
 You can use any text editor. There are plugins for many editors (e.g. Atom, Emacs, Sublime Text, Vim, and Visual Studio Code) that allow you to preview Markdown while you are editing it.     
      
 You can also use a dedicated Markdown editor like Typora or an online one like StackEdit or Dillinger. You can even use the editable template below.
- 
+   
   
       
   
